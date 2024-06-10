@@ -4,7 +4,7 @@
 Involves implementing a REST API for managing a simple account billing system. 
 The system includes features for creating, updating, deleting, and querying accounts 
 bills, as well as importing account data from a CSV file. 
-The implementation uses Java 17+, Spring Boot, and PostgreSQL, with the entire 
+The implementation uses Java 17, Spring Boot 3.3.0, and PostgreSQL, with the entire 
 application containerized using Docker and orchestrated with Docker Compose.
 
 ## Key Features:
