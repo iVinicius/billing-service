@@ -1,0 +1,6 @@
+paymentDate,amount,situation,dueDate,description
+2023-06-01,100.50,PAID,2023-06-10,Payment for invoice 001
+2023-06-02,200.75,PAID,2023-06-11,Payment for invoice 002
+2023-06-03,150.25,PENDING,2023-06-12,Payment for invoice 003
+2023-06-04,300.00,PAID,2023-06-13,Payment for invoice 004
+2023-06-05,250.50,PENDING,2023-06-14,Payment for invoice 005
