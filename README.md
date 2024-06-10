@@ -15,7 +15,7 @@ application containerized using Docker and orchestrated with Docker Compose.
 * Domain Driven Design: Organized using DDD principles.
 * Database Migration: Uses Flyway for managing database schema changes.
 * JPA for Persistence: Utilizes JPA for database operations.
-* Resilience: Custom exceptions, detailed logging, and 80% Unit and Integration tests coverage.
+* Resilience: Custom error handling, detailed logging, and 80% Unit and Integration tests coverage.
 
 ## Setup
 1. ./gradlew build
